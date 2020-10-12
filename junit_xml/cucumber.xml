@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="23.381645">
+    <testcase classname="Goibibo Website Test" name="Validate Goibibo Page Title" time="23.381645">
+        <failure message="The scenario has pending or undefined step(s)">
+            <![CDATA[Given I launch Goibibo website..............................................passed
+Then I validate Goibibo Page title..........................................passed
+When I Select any one option( Oneway ,Roundtrip,Multi City).................pending
+Then I Select From & Destination............................................skipped
+Then I Select the Departure date - future Date..............................skipped
+Then I Select the traveller details and travel class........................skipped
+Then I Search for the cheapest price........................................skipped
+And I click on Book now button..............................................skipped
+Then I Review the selection in the review page..............................skipped
+]]>
+        </failure>
+    </testcase>
+</testsuite>
